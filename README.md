@@ -1,6 +1,7 @@
 # custom_appbar
 
-A new Flutter project.
+Demo sencillo de como hacer un Custom appBar dentro de un scaffold.
+
 
 ## Getting Started
 
